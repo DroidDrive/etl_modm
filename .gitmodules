@@ -1,4 +1,4 @@
 [submodule "ext/etl"]
 	path = ext/etl
-	url = git@github.com:ETLCPP/etl.git
+	https://github.com/ETLCPP/etl
 	branch = master
